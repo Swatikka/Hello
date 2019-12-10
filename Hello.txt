@@ -1,12 +1,2 @@
 This is the text file for Hello.
 
-Another file that is uploaded in-between pulls.
-<<<<<<< HEAD
-update1
-=======
-update2
->>>>>>> 62ee0eeba2e5b94d10574c1a6a68216e9b392e4c
-
-Another file that is uploaded in-between pulls.
-update1
-update2
